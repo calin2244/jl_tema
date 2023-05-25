@@ -60,7 +60,7 @@ The dataset used in this script includes the following information:
    
 3. Run the script using the Julia interpreter:
 ```julia
-julia transport-localitati.jl
+julia vehicle-routing.jl
 ```
 4. The script will output the optimal routes for the vehicles and the total distance traveled. 
 
